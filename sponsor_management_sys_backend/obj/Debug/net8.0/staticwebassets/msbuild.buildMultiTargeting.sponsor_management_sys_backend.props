@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sponsor_management_sys_backend.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZNM01DTn0XVf3OA6upNOFmLnwcBx2dnWckIABUjhCQ0=",
+  "Source": "sponsor_management_sys_backend",
+  "BasePath": "_content/sponsor_management_sys_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

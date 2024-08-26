@@ -1,0 +1,26 @@
+
+
+div {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+main p {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.6;
+}

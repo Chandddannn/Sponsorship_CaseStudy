@@ -1,0 +1,6 @@
+@sponsor_management_sys_backend_HostAddress = http://localhost:5285
+
+GET {{sponsor_management_sys_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
